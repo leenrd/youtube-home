@@ -1,6 +1,6 @@
 import logo from "../assets/logo.png";
 import { ArrowLeft, Bell, Menu, Mic, Search, Upload, User } from "lucide-react";
-import Button from "../components/Button";
+import { Button } from "../components/Button";
 import { useState } from "react";
 
 const PageHeader = () => {
