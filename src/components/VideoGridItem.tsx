@@ -86,7 +86,7 @@ const VideoGridItem = ({
             {channel.name}
           </a>
           <div className="text-secondary-text text-sm">
-            {VIEW_FORMATTER.format(views)} Views • {formatTimeAgo(postedAt)}
+            {VIEW_FORMATTER.format(views)} views • {formatTimeAgo(postedAt)}
           </div>
         </div>
       </div>
